@@ -1,2 +1,0 @@
-# vtigerFramework
-Selenium Framework
